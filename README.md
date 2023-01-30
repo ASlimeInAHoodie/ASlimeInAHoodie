@@ -1,6 +1,9 @@
 {👋} Hi, I’m @ASlimeInAHoodie or Luuke and I live in Australia.  
+
 {💻} I currently make Java, C#, and Python projects.  
+
 {📖} I have a Cert IV. in programming and are currently working as a cyber security analyst in Sydney, Australia.
+
 {📞} You can contact me through my discord: ASlimeInAHoodie#4960
 
 <!---
