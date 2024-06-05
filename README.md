@@ -1,10 +1,17 @@
 - ⫣👋⫦ Hi, I’m @ASlimeInAHoodie.  
-- ⫣💻⫦ I make projects in Python and C++.
-	- ⫦ I program in Python, Bash, PowerShell, C#, C++, and SQL.
+- ⫣💻⫦ I make projects in Python and Rust.
+	- ⫦ My confidence in languages goes as follows:
+		1.  Python
+		2.  C#
+   		3.  Rust
+   		4.  Bash
+   		5.  Powershell
+   		6.  C++
+   		7.  SQL
 - ⫣📞⫦ Contact me:
 	- ⫦ Discord: ASlimeInAHoodie
-- ⫣🏦⫦ Currently studing and working as an OT Cyber Security Trainee.
-	- ⫦ Check out my [autokali repository](https://github.com/ASlimeInAHoodie/autokali) for my cyber related scripts and projects.
+- ⫣🏦⫦ Currently studying and working as a Cyber Incident Response and Management Trainee.
+	- ⫦ Check out my [autokali repository](https://github.com/ASlimeInAHoodie/autokali) for my offensive cyber security scripts and projects.
 - ⫣ **48 41 43 4B 20 54 48 45 20 50 4C 41 4E 45 54** ⫦ <!-- HACK THE PLANET -->
 <br /><br /><!-- Why include my contact details for easy OSINT? This info is already too easy to find 🙃 -->
 <br />
