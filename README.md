@@ -17,26 +17,26 @@ From my most confident to least confident:
 	<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" />
 	</a>
-	<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" />
 	</a>
-	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+	<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
 	</a>
-	<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
 	</a>
 	<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
 	</a>
-	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+	<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
 	</a>
 </p><br>
 <h2>Skills</h2>
 Other skills in no particular order:
 <p align="left">
-	<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+	<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
 	</a>
 	<a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer">
