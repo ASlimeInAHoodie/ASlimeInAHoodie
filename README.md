@@ -70,10 +70,11 @@ Other skills in no particular order:
 <dl>
 	<dt>⫣📞⫦ Contact me:</dt>
 	<dd>⫦ Discord: ASlimeInAHoodie </dd>
-	<dt>⫣🏦⫦ Currently studying and working as a Cyber Incident Response and Management Trainee.</dt>
+	<dt>⫣🏦⫦ Currently working as a Cyber Security Analyst.</dt>
 	<dd>⫦ Check out my <a href="https://github.com/ASlimeInAHoodie/autokali">autokali repository</a> for my offensive cyber security scripts and projects.</dd>
-	<dt>⫣🧠⫦ I'm currently learning to make mods for unity engine games.</dt>
-	<dd>⫦ Check out my lethal company mod <a href="https://github.com/ASlimeInAHoodie/Nox-Ferit">Nox Ferit</a> for my recent addition to my github.</dd>
+	<dd>⫦ Check out my newest offensive security tool, <a href="https://github.com/ASlimeInAHoodie/RevShell.py">RevShell.py</a> - a reverse shell C2 framework with embedded encryption.</dd>
+	<dt>⫣🧠⫦ I'm currently learning to make games in godot.</dt>
+	<dd>⫦ Check out my Lethal Company mod, <a href="https://github.com/ASlimeInAHoodie/nox-ferit">Nox Ferit</a> - a mod designed for bigger risk and reward.</dd>
 </dl>
 <p>⫣ <b>48 41 43 4B 20 54 48 45 20 50 4C 41 4E 45 54</b> ⫦ <!-- HACK THE PLANET --></p>
 <br /><!-- Hi OSINTers 🙂 -->
@@ -85,4 +86,18 @@ Other skills in no particular order:
 
 <h2>Top Repositories</h2>
 
-<div width="100%" align="center"><a href="https://github.com/ASlimeInAHoodie/autokali" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ASlimeInAHoodie&repo=autokali&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ASlimeInAHoodie/nox-ferit" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ASlimeInAHoodie&repo=nox-ferit&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+	<a href="https://github.com/ASlimeInAHoodie/RevShell.py" align="left">
+		<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ASlimeInAHoodie&repo=revshell.py&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+	</a>
+	<a href="https://github.com/ASlimeInAHoodie/nox-ferit" align="right">
+		<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ASlimeInAHoodie&repo=nox-ferit&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+	</a>
+</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
