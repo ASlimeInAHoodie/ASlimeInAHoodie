@@ -72,7 +72,7 @@ Other skills in no particular order:
 	<dd>⫦ Discord: ASlimeInAHoodie </dd>
 	<dt>⫣🏦⫦ Currently working as a Cyber Security Analyst.</dt>
 	<dd>⫦ Check out my <a href="https://github.com/ASlimeInAHoodie/autokali">autokali repository</a> for my offensive cyber security scripts and projects.</dd>
-	<dd>⫦ Check out my newest offensive security tool, <a href="https://github.com/ASlimeInAHoodie/RevShell.py">RevShell.py</a> - a reverse shell C2 framework with embedded encryption.</dd>
+	<dd>⫦ Check out my newest offensive security tool, <a href="https://github.com/ASlimeInAHoodie/RevShell.py">RevShell.py</a> - a reverse shell C2 framework with embedded cycling encryption.</dd>
 	<dt>⫣🧠⫦ I'm currently learning to make games in godot.</dt>
 	<dd>⫦ Check out my Lethal Company mod, <a href="https://github.com/ASlimeInAHoodie/nox-ferit">Nox Ferit</a> - a mod designed for bigger risk and reward.</dd>
 </dl>
