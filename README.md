@@ -1,8 +1,18 @@
+<h2>About Me</h2>
 <dl>
-	<dt>⫣👋⫦ Hi, I’m @ASlimeInAHoodie.</dt>
-	<dt>⫣💻⫦ I make projects in Python and the C family.</dt>
+	<dd>⫣👋⫦ Hi, I’m @ASlimeInAHoodie.</dt>
+	<dd>⫣💻⫦ I make projects in Python and the C family.</dt>
+	<dd>⫣🏦⫦ Currently working as a Cyber Security Analyst.</dt>
+	<dd>⫦ Check out my <a href="https://github.com/ASlimeInAHoodie/autokali">autokali repository</a> for my offensive cyber security scripts and projects.</dd>
+	<dd>⫦ Check out my newest offensive security tool, <a href="https://github.com/ASlimeInAHoodie/RevShell.py">RevShell.py</a> - a reverse shell C2 framework with embedded cycling encryption.</dd>
+	<dd>⫣🧠⫦ I'm currently learning to make games in godot.</dt>
+	<dd>⫦ Check out my Lethal Company mod, <a href="https://github.com/ASlimeInAHoodie/nox-ferit">Nox Ferit</a> - a mod designed for bigger risk and reward.</dd>
 </dl>
-<h2>Languages</h2>
+<p>⫣ <b>48 41 43 4B 20 54 48 45 20 50 4C 41 4E 45 54</b> ⫦ <!-- HACK THE PLANET --></p>
+<!-- Hi OSINTers 🙂 -->
+<br />
+<h2>Skills</h2>
+<h3>Languages</h3>
 From my most confident to least confident:
 <p align="left">
 	<a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -32,8 +42,8 @@ From my most confident to least confident:
 	<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
 	</a>
-</p><br>
-<h2>Skills</h2>
+</p>
+<h3>Misc</h3>
 Other skills in no particular order:
 <p align="left">
 	<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
@@ -67,25 +77,17 @@ Other skills in no particular order:
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" />
 	</a>
 </p>
-<dl>
-	<dt>⫣📞⫦ Contact me:</dt>
-	<dd>⫦ Discord: ASlimeInAHoodie </dd>
-	<dt>⫣🏦⫦ Currently working as a Cyber Security Analyst.</dt>
-	<dd>⫦ Check out my <a href="https://github.com/ASlimeInAHoodie/autokali">autokali repository</a> for my offensive cyber security scripts and projects.</dd>
-	<dd>⫦ Check out my newest offensive security tool, <a href="https://github.com/ASlimeInAHoodie/RevShell.py">RevShell.py</a> - a reverse shell C2 framework with embedded cycling encryption.</dd>
-	<dt>⫣🧠⫦ I'm currently learning to make games in godot.</dt>
-	<dd>⫦ Check out my Lethal Company mod, <a href="https://github.com/ASlimeInAHoodie/nox-ferit">Nox Ferit</a> - a mod designed for bigger risk and reward.</dd>
-</dl>
-<p>⫣ <b>48 41 43 4B 20 54 48 45 20 50 4C 41 4E 45 54</b> ⫦ <!-- HACK THE PLANET --></p>
-<br /><!-- Hi OSINTers 🙂 -->
-<h2>GitHub Statistics</h2>
+<br />
+<h2>Platform Statistics</h2>
+<h3>TryHackMe</h3>
+<a href="https://tryhackme.com/p/ASlimeInAHoodie" align="left"><img src="https://tryhackme-badges.s3.amazonaws.com/ASlimeInAHoodie.png" alt="My TryHackMe Stats" /></a>
+<h3>GitHub</h3>
 
 <!-- <a href="http://www.github.com/ASlimeInAHoodie"><img src="https://github-readme-stats.vercel.app/api?username=ASlimeInAHoodie&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ASlimeInAHoodie's GitHub stats" /></a> -->
 
 <a href="https://github.com/ASlimeInAHoodie" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASlimeInAHoodie&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <h2>Top Repositories</h2>
-
 <div width="100%" align="center">
 	<a href="https://github.com/ASlimeInAHoodie/RevShell.py" align="left">
 		<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ASlimeInAHoodie&repo=revshell.py&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
