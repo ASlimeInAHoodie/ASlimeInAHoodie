@@ -3,8 +3,7 @@
 	<dd>⫣👋⫦ Hi, I’m @ASlimeInAHoodie.</dt>
 	<dd>⫣💻⫦ I make projects in Python and the C family.</dt>
 	<dd>⫣🏦⫦ Currently working as a Cyber Security Analyst.</dt>
-	<dd>⫦ Check out my <a href="https://github.com/ASlimeInAHoodie/autokali">autokali repository</a> for my offensive cyber security scripts and projects.</dd>
-	<dd>⫦ Check out my newest offensive security tool, <a href="https://github.com/ASlimeInAHoodie/RevShell.py">RevShell.py</a> - a reverse shell C2 framework with embedded cycling encryption.</dd>
+	<dd>⫦ Check out my new defensive tool, <a href="https://github.com/ASlimeInAHoodie/alertbeat">ALERTBEAT</a> - a python script scheduler built for log rule alerting.</dd>
 	<dd>⫣🧠⫦ I'm currently learning to make games in godot.</dt>
 	<dd>⫦ Check out my Lethal Company mod, <a href="https://github.com/ASlimeInAHoodie/nox-ferit">Nox Ferit</a> - a mod designed for bigger risk and reward.</dd>
 </dl>
