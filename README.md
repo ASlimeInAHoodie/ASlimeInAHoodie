@@ -3,9 +3,8 @@
 	<dd>⫣👋⫦ Hi, I’m @ASlimeInAHoodie.</dt>
 	<dd>⫣💻⫦ I make projects in Python and the C family.</dt>
 	<dd>⫣🏦⫦ Currently working as a Cyber Security Analyst.</dt>
-	<dd>⫦ Check out my new defensive tool, <a href="https://github.com/ASlimeInAHoodie/alertbeat">ALERTBEAT</a> - a python script scheduler built for log rule alerting.</dd>
-	<dd>⫣🧠⫦ I'm currently learning to make games in godot.</dt>
-	<dd>⫦ Check out my Lethal Company mod, <a href="https://github.com/ASlimeInAHoodie/nox-ferit">Nox Ferit</a> - a mod designed for bigger risk and reward.</dd>
+	<dd>⫦ Check out my new offensive site, <a href="https://learnhacking.aslimeinahoodie.dev">Learn to Hack</a> - a static site for learning basic Linux and hacking techniques.</dd>
+	<dd>⫣🧠⫦ I'm currently learning game design in the open source game engine Godot.</dt>
 </dl>
 <p>⫣ <b>48 41 43 4B 20 54 48 45 20 50 4C 41 4E 45 54</b> ⫦ <!-- HACK THE PLANET --></p>
 <!-- Hi OSINTers 🙂 -->
