@@ -1,11 +1,37 @@
+<h1>ASlimeInAHoodie</h1>
+<h3><i>A blue-team professional with a passion for threat hunting, digital forensics, and programming.</i></h3>
+<br>
+
 <h1>About Me</h1>
+<p>👋 Hi, I’m @ASlimeInAHoodie. I:</p>
+<ul>
+	<li>Make projects in Python and the C family ⫣💻⫦</li>
+	<li>Currently work as a Cyber Security Analyst ⫣🏦⫦</li>
+	<li>Improve my cyber security skills daily with TryHackMe ⫣🛠️⫦</li>
+	<li>Learn game design in my spare time with Godot ⫣🌏⫦</li>
+	<li>Am working on a new offensive training project, <a href="https://learnhacking.aslimeinahoodie.dev">Learn to Hack</a> - a static site for learning basic Linux and hacking techniques. ⫣📝⫦</li>
+</ul>
+
+<h3>Q & A</h3>
 <dl>
-	<dd>⫣👋⫦ Hi, I’m @ASlimeInAHoodie.</dt>
-	<dd>⫣💻⫦ I make projects in Python and the C family.</dt>
-	<dd>⫣🏦⫦ Currently working as a Cyber Security Analyst.</dt>
-	<dd>⫣📝⫦ Check out my new offensive site, <a href="https://learnhacking.aslimeinahoodie.dev">Learn to Hack</a> - a static site for learning basic Linux and hacking techniques.</dd>
-	<dd>⫣🧠⫦ I'm currently learning game design in the open source game engine Godot.</dt>
+	<dd><b>What is your go-to text editor?</b> Nano</dt>
+	<dd><b>What is your go-to IDE?</b> Codium</dt>
+	<dd><b>Do you prefer dark mode or light mode?</b> Dark mode</dt>
+	<dd><b>What linux distro would you choose?</b> I daily drive POP!_OS, but Mint or base Ubuntu also work.</dt>
+	<dd><b>Are you a tabs or spaces person?</b> I don't have a preference, but my IDE uses spaces.</dt>
+	<dd><b>Do you run Kali or Parrot when hacking?</b> I daily drive ParrotSecurity for hacking.</dt>
+	<dd><b>How do you practice your skills?</b> I write code, test against machines, and conduct other projects when I have a passionate idea. Otherwise, I train via TryHackMe.</dt>
+	<dd><b>What is your favourite language to write quick scripts in?</b> Python for quick scripts that I don't have to worry about performance.</dt>
+	<dd><b>Do you feel at home in blue, red, or purple teaming?</b> Blue teaming is what I do for work, but I enjoy attacking and then responding.</dt>
+	<dd><b>After a fresh install, what security tool are you installing?</b> Portmaster, a firewall addon that allows port blacklisting/whitelisting.</dt>
+	<dd><b>Are you a "10 terminals open" or a "clean workspace" person?</b> I enjoy having a tidy workspace, but I often end up having too many windows.</dt>
+	<dd><b>What's your preferred way to document findings?</b> For quick notes, Obsidian, but if it's public findings, GitHub's static sites.</dt>
+	<dd><b>Do you do tinker with physical technology?</b> I build and work on FPV Drones.</dt>
+	<dd><b>What's your favourite hacker movie?</b> 1995 Hackers. Hack the planet!</dt>
+	<dd><b>Do you have any advice for people starting in cybersecurity?</b> If you're doing a course, degree, or certificate, try and also do daily challenges.</dt>
+	<dd><b>Is there a project you are most proud of?</b> While it's not finished, I'm still proud of my <a href="https://learnhacking.aslimeinahoodie.dev">Learn to Hack</a> website.</dt>
 </dl>
+
 <p>⫣ <b>48 41 43 4B 20 54 48 45 20 50 4C 41 4E 45 54</b> ⫦ <!-- HACK THE PLANET --></p>
 <!-- Hi OSINTers 🙂 -->
 <h1>Skills</h1>
